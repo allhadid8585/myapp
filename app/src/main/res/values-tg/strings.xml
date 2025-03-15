@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Transaction_Name">АмалиётиМолиявӣ</string>
+    <string name="Income_Name">Даромад</string>
+    <string name="Expense_Name">Харочот</string>
+    <string name="Category_Name">гурӯҳ</string>
+</resources>

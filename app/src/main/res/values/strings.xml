@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">layaout</string>
+
+    // navigation
+    <string name="Transaction_Name">Transaction</string>
+    <string name="Income_Name">Income</string>
+    <string name="Expense_Name">Expense</string>
+    <string name="Category_Name">Category</string>
+</resources>
+

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56959533219",
+    "project_id": "hayat-8e653",
+    "storage_bucket": "hayat-8e653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56959533219:android:f3d2809136de76ba8e3f16",
+        "android_client_info": {
+          "package_name": "com.example.layaout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbqiwX0HswJT-x0W8TB8xHpP3sMmJET8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56959533219:android:8613bd4b9ed0214f8e3f16",
+        "android_client_info": {
+          "package_name": "com.example.mas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbqiwX0HswJT-x0W8TB8xHpP3sMmJET8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
